@@ -1,10 +1,10 @@
 # ChatApplication
 # Description:
-L'application que nous développons a pour objectif de fournir un moyen pratique et sécurisé de communication entre utilisateurs en utilisant l'architecture des sockets et les technologies Java. Grâce à cette application, les utilisateurs pourront échanger des messages texte, des fichiers et bien plus encore, en se connectant via leurs adresses e-mail.
+L'application que nous développons a pour objectif de fournir un moyen pratique et sécurisé de communication entre utilisateurs en utilisant l'architecture des sockets et les technologies **Java**. Grâce à cette application, les utilisateurs pourront échanger des messages texte, des fichiers et bien plus encore, en se connectant via leurs adresses e-mail.
 
-L'architecture de l'application repose sur un modèle Client-Serveur utilisant des sockets IP, où les clients se connectent au service en utilisant leurs e-mails rt en utilisant le protocole de transport TCP (Transmission Control Protocol).
+L'architecture de l'application repose sur un modèle **Client-Serveur** utilisant des **sockets IP** , où les clients se connectent au service en utilisant leurs e-mails rt en utilisant **le protocole de transport TCP (Transmission Control Protocol).**
 
-🌟 L'application fourni une interface conviviale et une expérience utilisateur fluide, tout en garantissant la confidentialité et la sécurité des échanges entre utilisateurs. Elle ouvrira de nouvelles possibilités de collaboration et de communication efficace dans divers contextes personnels et professionnels
+🌟 L'application fourni une interface conviviale et une expérience utilisateur fluide, tout en garantissant **la confidentialité et la sécurité** des échanges entre utilisateurs. Elle ouvrira de nouvelles possibilités de collaboration et de communication efficace dans divers contextes personnels et professionnels
 
 ![5](https://github.com/HZAOUDI/ChatApplication/assets/125825033/1bf7de5d-37f4-4d69-9fa4-399c673f89a7)
 ![7](https://github.com/HZAOUDI/ChatApplication/assets/125825033/bbfa756f-2b7e-40eb-b475-86e8b7e836cd)
